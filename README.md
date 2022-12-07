@@ -15,6 +15,10 @@ Developer, Trainer, Open Source Contributor
 * [2014](#2014)
 
 ## 2022
+
+[Collections in PHP](2022-10-25-collections-php.md) 2022-10-25  
+[Slim 4 - Blade](2022-06-18-slim-blade.md) 2022-04-18  
+[Slim 4 - Latte Template Engine](2022-04-06-slim4-latte.md) 2022-04-06  
 [Slim 4 - Basic Authentication](2022-02-19-slim-basic-auth.md) 2022-02-19
 
 ## 2021
