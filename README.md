@@ -52,7 +52,6 @@ Developer, Trainer, Open Source Contributor
 [Slim 4 - Vue.js](2020-07-21-slim4-vue.md) 2020-07-21  
 [Slim 4 - Database testing](2020-06-26-slim4-database-testing.md) 2020-06-26  
 [Using Docker for Development](2020-06-26-slim4-docker.md) 2020-06-26     
-[Slim 4 - Memcached](2021-06-20-slim-memcached.md) 2020-06-20  
 [Slim 4 - API documentation with Swagger](2020-06-12-slim4-swagger-ui.md) 2020-06-12  
 [Slim 4 - Sentry](2020-06-18-slim4-sentry.md) 2020-06-18  
 [Slim 4 - Testing](2020-06-09-slim4-testing.md) 2020-06-09  
